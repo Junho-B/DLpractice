@@ -37,3 +37,5 @@ a = NAND(1, 0)
 print(a)
 a = OR(1, 0)
 print(a)
+
+#test git
